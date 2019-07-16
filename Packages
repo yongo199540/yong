@@ -1,13 +1,13 @@
 Package: com.yongo199540.1312223
-Version: 9.3-2
-Architecture: iphoneos
+Version: 9.3-2+debug
+Architecture: iphoneos-arm
 Maintainer: Yongo199540 <yongo199540@gmail.com>
 Filename: /1312223.deb
 Size: 65424
-MD5sum: BF7DA1067CBCB9B366505F9F8BA0FF04
-SHA1: 3D8D885A9293DE3E30D9C3A60B4A7303A8144ABD
-SHA256: DC60653D1D0F3C799EBE69AB20968B19B1FFF6BE678A423E8CB5DE00D0494921
+MD5sum: bf7da1067cbcb9b366505f9f8ba0ff04
+SHA1: 3d8d885a9293de3e30d9c3a60b4a7303a8144abd
+SHA256: dc60653d1d0f3c799ebe69ab20968b19b1fff6be678a423e8cb5de00d0494921
 Section: Tweaks
 Description: A test tweak for my repo
 Author: Yongo199540 <yongo199540@gmail.com>
-Name: 1312223 Y
+Name: 測試
