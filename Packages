@@ -2,6 +2,7 @@ Package: com.yongo199540.1312223
 Version: 9.3-2+debug
 Architecture: iphoneos-arm
 Maintainer: Yongo199540 <yongo199540@gmail.com>
+Depends: winterboard
 Filename: /1312223.deb
 Size: 65424
 MD5sum: bf7da1067cbcb9b366505f9f8ba0ff04
