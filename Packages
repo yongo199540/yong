@@ -1,14 +1,14 @@
-Package: com.365scores.365scroesapp
-Version: 9.3-2+debug
+Package: com.jaja123.jaja123
+Version: 0.0.2
 Architecture: iphoneos-arm
-Maintainer: Yongo199540 <yongo199540@gmail.com>
+Maintainer: jaja123 <email@gmail.com>
 Depends: winterboard
-Filename: /1312223.deb
-Size: 65424
-MD5sum: bf7da1067cbcb9b366505f9f8ba0ff04
-SHA1: 3d8d885a9293de3e30d9c3a60b4a7303a8144abd
-SHA256: dc60653d1d0f3c799ebe69ab20968b19b1fff6be678a423e8cb5de00d0494921
+Filename: /2019Videoleap破解.deb
+Size: 56872
+MD5sum: a22cbc6da8db61b1e7f42dbad2412670
+SHA1: 370742135f251e777e4fff854d59ce800c690185
+SHA256: 93bc208154bce573021b1a06169d089592d1c286e259079148c3751f9e5a3444
 Section: Tweaks
-Description: A test tweak for my repo
-Author: Yongo199540 <yongo199540@gmail.com>
-Name: 測試
+Description: 2019Videoleap破解
+Author: jaja123 <email@gmail.com>
+Name: 2019Videoleap破解

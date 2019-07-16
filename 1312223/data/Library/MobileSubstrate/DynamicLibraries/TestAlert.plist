@@ -1,7 +1,0 @@
-{
-    Filter =     {
-        Bundles =         (
-            "com.365scores.365scroesapp"
-        );
-    };
-}
